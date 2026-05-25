@@ -44,7 +44,7 @@
                         </td>
                         <td class="px-2 py-3 font-medium">{{ $product->name }}</td>
                         <td class="px-2 py-3 text-slate-600">{{ $product->category->name }}</td>
-                        <td class="px-2 py-3 text-slate-600">{{ number_format((float) $product->price, 2) }} ر.س</td>
+                        <td class="px-2 py-3 text-slate-600">{{ number_format((float) $product->price, 2) }} $</td>
                         <td class="px-2 py-3">
                             @if($product->is_popular)
                                 <span class="rounded-full bg-emerald-100 px-2 py-0.5 text-xs font-semibold text-emerald-700">نعم</span>
