@@ -8,10 +8,10 @@
     @endphp
 
     <section class="hero-gradient mb-5 overflow-hidden rounded-3xl p-5 text-white shadow-lg md:p-7">
-        <p class="mb-2 text-xs tracking-[0.15em] text-brand-100">HOMETIX | متجر إلكترونيات وكهرباء</p>
-        <h1 class="mb-2 text-2xl font-bold leading-tight md:text-3xl">كل ما تحتاجه من القطع الإلكترونية والكهربائية في مكان واحد</h1>
+        <p class="mb-2 text-xs tracking-[0.15em] text-brand-100">HOMETIX | متجر إلكترونيات </p>
+        <h1 class="mb-2 text-2xl font-bold leading-tight md:text-3xl">كل ما تحتاجه من القطع الإلكترونية وعدد الصيانة الاحترافية الحديثة   </h1>
         <p class="max-w-2xl text-sm text-brand-100 md:text-base">
-            اكتشف منتجات مختارة بعناية لمشاريعك، صيانة منزلك، وحلول المنزل الذكي.
+            اكتشف منتجات مختارة بعناية لمشاريعك الجامعية، صيانة منزلك، وحلول المنزل الذكي.
         </p>
 
         <div class="mt-4 flex flex-wrap gap-2">
